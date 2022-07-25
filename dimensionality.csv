@@ -1,0 +1,13 @@
+model,dim90,dim90_aR,dim90_aNR,N_batch
+correct_v2(6),9,,,1000
+correct_v2(5),6,,,1000
+correct_v2(4),9,,,1000
+bio_v2,13,,,1000
+correct_v1G2,11,,,1000
+correct_v3G2,10,,,1000
+choice_v4_2_onnotafter,34,30.0,40.0,10000
+choice_v4_2_correctctrl_onnotafter,30,28.0,32.0,10000
+choice_v4_2_onnotafter,34,31,40,20000
+choice_v4_2_correctctrl_onnotafter,30,28,32,20000
+choice_v4_2,34,30,41,20000
+choice_v4_2_correctctrl,30,23,36,20000
